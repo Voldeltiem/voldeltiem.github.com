@@ -6,4 +6,4 @@ dt{font-weight: bold;padding-top: 15px;}
 .contacto{display: inline-block;vertical-align: top;text-align: left;padding-left: 100px;}
 .imagen{display: inline-block;padding-left: 150px;vertical-align: top;}
 .imagen img{width: 200px;}
-.datos{margin-left: 50px; text-align: left;}
+.datos{margin-left: 50px; text-align: left;margin-right: 10px;}
